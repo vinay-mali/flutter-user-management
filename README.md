@@ -23,4 +23,3 @@ A Flutter practice project for learning REST API integration.
 
 ## Notes
 - This is a learning project built to practice REST API integration in Flutter
-- Image upload is only available when adding a user
