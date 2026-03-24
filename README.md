@@ -21,5 +21,10 @@ A Flutter practice project for learning REST API integration.
 - google_fonts
 - modal_progress_hud_nsn
 
+## Screenshots
+![Home Screen](screenshots/users.jpg)
+![Add User](screenshots/add_user.jpg)
+![Upload image User](screenshots/upload_image.jpg)
+
 ## Notes
 - This is a learning project built to practice REST API integration in Flutter
