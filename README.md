@@ -1,16 +1,26 @@
-# user_management
+# User Management App
 
-A new Flutter project.
+A Flutter practice project for learning REST API integration.
 
-## Getting Started
+## Features
+- View, add, edit, and delete users
+- Image upload via Cloudinary
+- Built with Provider for state management
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- REST API (MockAPI)
+- Cloudinary (image upload)
+- Provider
 
-A few resources to get you started if this is your first Flutter project:
+## Packages Used
+- http
+- provider
+- image_picker
+- flutter_dotenv
+- google_fonts
+- modal_progress_hud_nsn
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Notes
+- This is a learning project built to practice REST API integration in Flutter
+- Image upload is only available when adding a user
